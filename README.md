@@ -22,7 +22,6 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Final Year **ENTC Engineering** student
 - 💻 Passionate about **Full Stack Web Development** (React · Next.js · Node.js)
 - 🔧 Also skilled in **Embedded Systems & IoT**
 - 🌱 Currently building projects & contributing to open source
