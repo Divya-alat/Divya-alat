@@ -1,4 +1,3 @@
-::: {align="center"}
 # Hi, I'm Divya Alat 👋
 
 ### Full Stack Developer \| AI-Powered Web Applications
@@ -92,6 +91,7 @@ A portfolio-builder platform developed collaboratively.
 -   MongoDB integration, feature development, and testing.
 
 **Tech:** MERN Stack
+[Live](apnafolio.in)
 
 ### 5. Smart Guard Helmet Module
 
@@ -112,6 +112,19 @@ An embedded IoT project focused on rider safety and emergency response.
 -   **IoT Intern --- Emertxe Information Technologies:** Gained hands-on
     exposure to microcontrollers, sensor interfacing, C programming,
     debugging, and hardware--software integration.
+    
+## 📚 Research Publications
+
+### Smart Guard Helmet Module: A Next-Gen AI Helmet Module for Rider Protection and Real-Time Alert
+
+**Published in IJFMR — International Journal for Multidisciplinary Research**
+
+- **Authors:** Divya Govind Alat, Siddhant Manikrao Gayki, Prerana Virbhadra Biradar, Rohan Abasaheb Gangarde, Prof. Pranjali Deshmukh, Prof. Ashwini R. Deshmukh
+- **Publication:** Volume 8, Issue 3 (May–June 2026)
+- **Published on:** May 26, 2026
+- **Research Area:** IoT, Embedded Systems, Rider Safety, Accident Detection
+- **Paper:** [Read Published Research Paper](https://www.ijfmr.com/research-paper.php?id=78837)
+
 
 ## 🎯 Current Focus
 
