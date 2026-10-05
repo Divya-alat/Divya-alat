@@ -139,14 +139,6 @@ An embedded IoT project focused on rider safety and emergency response.
 I'm interested in opportunities and collaborations involving **Full
 Stack Development, frontend engineering, and AI-enabled applications**.
 
--   📧 Email: <divyaalat1711@gmail.com>
--   💼 LinkedIn:
-    [linkedin.com/in/divyaalat](https://www.linkedin.com/in/divyaalat/)
--   🧑‍💻 GitHub: [github.com/Divya-alat](https://github.com/Divya-alat)
+
 
 ------------------------------------------------------------------------
-
-::: {align="center"}
-`<i>`{=html}Thanks for visiting my profile! Feel free to explore my
-repositories.`</i>`{=html}
-:::
