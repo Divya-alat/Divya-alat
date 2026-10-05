@@ -90,8 +90,8 @@ A portfolio-builder platform developed collaboratively.
 -   API integration and authentication workflows.
 -   MongoDB integration, feature development, and testing.
 
-**Tech:** MERN Stack
-[Live](apnafolio.in)
+**Tech:** MERN Stack\
+[Live Demo](https://apnafolio.in/)
 
 ### 5. Smart Guard Helmet Module
 
