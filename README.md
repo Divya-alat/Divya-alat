@@ -144,11 +144,23 @@ Detailed technologies and feature availability will be documented according to t
 
 🌐 [Visit ApnaFolio](https://apnafolio.in/)
 
-### 6. Smart Bike Security System
+### 6. Smart Bike Security System Through Wi-Fi Using ESP32
 
-An academic mini project focused on two-wheeler security using electronics and embedded systems concepts.
+An academic embedded systems and IoT project focused on improving two-wheeler security through GPS-based tracking, unauthorized movement detection, and ignition control.
 
-Further documentation, including the hardware components, implementation details, and source code, will be added when available.
+**Key Features:**
+- ESP32-based security system for two-wheelers.
+- NEO-6M GPS module for location tracking.
+- Tilt and vibration sensors for detecting unauthorized movement or tampering.
+- Relay-based ignition control to prevent unauthorized vehicle use.
+- Wi-Fi-based transmission of location information and alerts.
+- Manual override switch for authorized operation.
+
+**Technology Stack:** ESP32, GPS (NEO-6M), Tilt Sensor, Vibration Sensor, Relay Module, Wi-Fi, Embedded Systems, IoT.
+
+**My Contribution:** Co-author of the published research paper documenting the proposed system, methodology, hardware architecture, and prototype testing.
+
+📄 **Research Paper:** [Smart Bike Security System Through Wi-Fi Using ESP32](https://ijrpr.com/)
 
 ---
 
@@ -164,16 +176,31 @@ Internship details, certificates, and project evidence can be added to the relev
 
 ---
 
-## 📄 Research Publication
+## 📄 Research Publications
 
-**Smart Guard Helmet Module: A Next-Gen AI Helmet Module for Rider Protection and Real-Time Alert**
+### 1. Smart Guard Helmet Module: A Next-Gen AI Helmet Module for Rider Protection and Real-Time Alert
 
 - **Journal:** International Journal for Multidisciplinary Research (IJFMR)
 - **Volume:** 8
 - **Issue:** 3
-- **Publication period:** May–June 2026
+- **Publication Period:** May–June 2026
+- **Author Details:** Refer to the published paper.
 
-📖 [Read the Research Paper](https://www.ijfmr.com/research-paper.php?id=78837)
+📖 **Read the Paper:** [IJFMR Research Publication](https://www.ijfmr.com/research-paper.php?id=78837)
+
+### 2. Smart Bike Security System Through Wi-Fi Using ESP32
+
+- **Journal:** International Journal of Research Publication and Reviews (IJRPR)
+- **Volume:** 6
+- **Issue:** 4
+- **Publication Date:** April 2025
+- **Pages:** 5744–5746
+- **ISSN:** 2582-7421
+- **Authors:** Dr. S. M. Handore, Siddhant Gayki, Divya Alat, Soham Bhosage, and Advait Dahake.
+
+**Abstract Summary:** This paper presents an ESP32-based two-wheeler security system integrating GPS tracking, tilt and vibration sensors, relay-based ignition control, and Wi-Fi communication to detect unauthorized movement and transmit vehicle location information.
+
+📖 **Read the Paper:** [International Journal of Research Publication and Reviews](https://ijrpr.com/)
 
 ---
 
