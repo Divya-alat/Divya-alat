@@ -1,4 +1,4 @@
-# Hi, I'm Divya Alat 👋
+# Hi, I'm Divya Govind Alat 👋
 
 ### E&TC Engineer | Software Development | Embedded Systems & IoT
 
